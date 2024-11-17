@@ -1,4 +1,4 @@
-package jh.programmers.stack;
+package jh.programmers.stack.day2;
 import java.util.Stack;
 
 /**

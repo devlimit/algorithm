@@ -1,4 +1,4 @@
-package jh.programmers.math;
+package jh.programmers.math.day1;
 
 /**
  * 문제: 최댓값과 최솟값

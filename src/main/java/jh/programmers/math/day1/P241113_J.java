@@ -1,4 +1,4 @@
-package jh.programmers.math;
+package jh.programmers.math.day1;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
 * 풀이자: 김지아
 * 소요시간: 15분
 * */
-public class P241117_J {
+public class P241113_J {
     public String solution(String s) {
         String answer = "";
 
@@ -30,7 +30,7 @@ public class P241117_J {
     }
 
     public static void main(String[] args) {
-        P241117_J P241117 = new P241117_J();
+        P241113_J P241117 = new P241113_J();
         System.out.println(P241117.solution("1 2 3 4"));
         System.out.println(P241117.solution("-1 -2 -3 -4"));
     }
