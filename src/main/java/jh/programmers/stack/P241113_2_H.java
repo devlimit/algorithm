@@ -3,7 +3,7 @@ package jh.programmers.stack;
 import java.util.Stack;
 
 /**
- * 프로그래머스- 같은숫자는 싫어 /
+ * 프로그래머스- 같은숫자는 싫어
  * 소요시간 : 30분
  */
 public class P241113_2_H {

@@ -1,7 +1,9 @@
 package jh.programmers.math;
 
 /**
- * 소요시간 : 20분 ㅡㅡ
+ * 문제: 최댓값과 최솟값
+ * 소요시간 : 20분
+ * 풀이자 :신혜림
  */
 public class P241113_H {
 

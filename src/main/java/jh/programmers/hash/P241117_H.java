@@ -19,7 +19,7 @@ public class P241117_H {
             int max = nums.length/2;
             int answer = 0;
             answer= set.size();
-            if(max<=answer) {
+            if(max<answer) {   //다시보니 다음번엔 삼항으로 return  (max<answer)? max : answer; 이렇게 하는게 깔끔할 것 같음
                 answer = max;
             }
             return answer;

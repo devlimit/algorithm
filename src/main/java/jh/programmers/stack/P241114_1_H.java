@@ -1,6 +1,11 @@
 package jh.programmers.stack;
 import java.util.Stack;
 
+/**
+ * 문제 : 올바른 괄호
+ * 풀이시간: 25분
+ * 풀이자: 신혜림
+ */
 public class P241114_1_H {
         boolean solution(String s) {
             boolean answer = true;
@@ -19,6 +24,5 @@ public class P241114_1_H {
             if(stack.isEmpty()){ //여기서 return stack.isEmpty()하면됨 boolean 값을 반환하기때문에
                 return true;
             }return false;
-
     }
 }
