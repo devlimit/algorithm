@@ -1,4 +1,4 @@
-package jh.programmers.search;
+package jh.programmers.search.day1;
 /**
  * 문제: 최소직사각형
  * url: https://school.programmers.co.kr/learn/courses/30/lessons/86491
