@@ -1,4 +1,4 @@
-package jh.programmers.hash;
+package jh.programmers.hash.day3;
 
 import java.util.HashSet;
 import java.util.Set;
